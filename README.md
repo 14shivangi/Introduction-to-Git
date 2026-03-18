@@ -1,27 +1,24 @@
-# Introduction to GitHub
+# Introduction to GitHub📌 
+_Get started using GitHub. This repository is designed for absolute beginners who want to learn Git step-by-step._
 
-_Get started using GitHub._
+People use GitHub to build some of the most advanced technologies in the world. 
+Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better.
 
-## Welcome
-
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better.
+### -**What You Will Learn**:
+  - What is Git?
+  - Why Git is used
+  - Basic commands (init, add, commit)
+  - How Git works internally
 
 - **Who is this for**: New developers, new GitHub users, and students.
 - **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This exercise is a great introduction for your first day on GitHub.
-- **How long**: This exercise takes less than one hour to complete.
-
-In this exercise, you will:
-
+  
+#### In this exercise, you will:
 1. Create a branch
 2. Commit a file
 3. Open a pull request
 4. Merge your pull request
 
-### How to start this exercise
-
-Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
 
 [![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public)
 

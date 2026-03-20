@@ -17,3 +17,17 @@ _Git is a **version control system (VCS)** used to track changes in source code.
 ```bash
 yum install -y git
 ```
+#### Create Project & Initialize Git
+```
+mkdir project-name
+cd project-name
+git init
+```
+This converts your folder into a Git repository
+
+#### Git Architecture (3 Areas)
+
+_After git init, Git works in 3 areas:_
+1. Working Directory (Workspace): Where you create/edit files
+2. Staging Area: Where files are prepared before commit
+3. Local Repository: Where final changes are stored permanently

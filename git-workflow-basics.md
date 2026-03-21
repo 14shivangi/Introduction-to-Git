@@ -70,3 +70,12 @@ git commit -m "your message" file1
 git commit -m "your message"
 ```
 _Moves files from Staging Area → Local Repository_
+
+#### Clean Working Directory
+```
+git clean -fd
+```
+- Deletes:
+1. Untracked files
+2. Untracked directories
+Use carefully — this cannot be undone
